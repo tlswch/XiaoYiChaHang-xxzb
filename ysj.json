@@ -201,7 +201,7 @@
   
 //解析接口
 
-"parses":[{"name":"聚合解析","type":3,"url":"Demo"},{"name":"并发解析","type":2,"url":"Parallel"},{"name":"轮询解析","type":2,"url":"Sequence"},{"name":"小易茶行","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+"parses":[{"name":"聚合解析","type":3,"url":"Demo"},{"name":"并发解析","type":2,"url":"Parallel"},{"name":"轮询解析","type":2,"url":"Sequence"},{"name": "小易茶行","type": 1,"url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 
 {"name":"小易茶室","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
 
