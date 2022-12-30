@@ -12,15 +12,7 @@
   "searchable": 1,
   "quickSearch": 1
  },
- 
- {
-      "key": "*淫窝资源",
-      "name": "😍淫窝资源",
-      "type": 1,
-      "api": "https://api.yinwoapi.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
+
     {
       "key": "*皇冠资源",
       "name": "😍皇冠资源",
@@ -42,14 +34,6 @@
       "name": "😍南国资源",
       "type": 1,
       "api": "https://api.sexnguon.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "*乐鱼资源",
-      "name": "😍乐鱼资源",
-      "type": 1,
-      "api": "https://www.leyuzyapi.com/inc/apijson_vod.php",
       "searchable": 0,
       "quickSearch": 0
     },
@@ -139,6 +123,41 @@
   "searchable": 1,
   "quickSearch": 1
  },
+ 
+ {
+      "key": "*玖玖资源",
+      "name": "😍玖玖资源",
+      "type": 0,
+      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    
+    {
+      "key": "*抖阴视频",
+      "name": "😍抖阴视频",
+      "type": 1,
+      "api": "https://www.888dav.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "*奶茶资源",
+      "name": "😍奶茶资源",
+      "type": 1,
+      "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "*色屌丝资源",
+      "name": "😍屌丝资源",
+      "type": 0,
+      "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+ 
     {
       "key": "00酷豆采集",
       "name": "😍酷豆|资源",
