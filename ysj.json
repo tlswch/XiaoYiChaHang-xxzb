@@ -15,7 +15,7 @@
 
 {"key":"mtv_pc_官方资源","name":"🅱️官方资源|T追剧","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "drpy_js_菜狗","name": "🅱️搜狗影视|T追剧","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/菜狗.js"},
+{"key": "drpy_js_菜狗","name": "🅱️搜狗影视|T追剧","type": 3,"api": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/sougou1.js","ext": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/sougou2.js"},
 
 {"key":"csp_Kunyu77","name":"🅱️炫彩影视|T追剧","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -23,7 +23,7 @@
 
 {"key":"mtv_pc_快看影视","name":"🅱️快看影视|T追剧","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 
-{"key":"AppTT","name":"🅱️图图影视|T追剧","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/ts.txt;md5; 8DB029245922B0D8BA98D6C51EA8252D"},
+{"key":"AppTT","name":"🅱️图图影视|T追剧","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/ttys.txt"},
 
 {"key": "py_cctv_full","name": " 📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/py_ysdq.py"},
 	
