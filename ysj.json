@@ -203,10 +203,8 @@
 
 "parses":[
 
+{"name":"小茶行","type": 1,"url": "https://okjx.cc?url="},
 
-
-
-{"name":"解析1","api":"https://okjx.cc?url=","use_in_parse_auto":true},
 
 {"name":"小易茶行","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
 
