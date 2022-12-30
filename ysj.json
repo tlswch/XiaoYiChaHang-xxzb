@@ -205,11 +205,11 @@
 
 {"name":"小易茶行","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
 
-{"name":"茶行嗅探","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"茶行嗅探","url":"https://jx.4kdv.com/?url=", "showType":1},
 
 {"name":"小易茶室","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
 
-{"name":"茶室嗅探","url":"https://jx.4kdv.com/?url=", "showType":1}],
+{"name":"茶室嗅探","type":0,"url":"https://jx.bozrc.com:4433/player/?url="}],
 
 "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905 ","funshion ", "duoduozy","xinluan","ddzy","tgqp","tkqp","XRJX","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
 
