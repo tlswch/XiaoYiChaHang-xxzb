@@ -202,22 +202,13 @@
 //解析接口
 
 "parses":[
-
-{"name":"江湖嗅探","type":0,"url":"https://dm.xmflv.com:4433/?url="},
-
-{"name":"夜幕嗅探","url": "https://www.yemu.xyz/?url="},
-
-{"name": "九一嗅探","url": "http://91fanli.top/m3u8/?url=","type": 0,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}},
-
-{"name": "左岸嗅探","url": "https://jx.bozrc.com:4433/player/?url=","type": 0,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}},
-
 {"name":"茶行嗅探","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 
-{"name":"小易茶室","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
+{"name": "茶室嗅探","url": "https://jx.bozrc.com:4433/player/?url=","type": 0,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}},
 
-{"name":"小易解析","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
+{"name":"小易茶行","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
 
-{"name": "茶行解析","type": 1,"url": "http://lanlan.ckflv.cn/?url="}],
+{"name":"小易茶室","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="}],
 
 "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905 ","funshion ", "duoduozy","xinluan","ddzy","tgqp","tkqp","XRJX","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
 
