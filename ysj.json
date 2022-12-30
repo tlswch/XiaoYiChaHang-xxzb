@@ -11,7 +11,7 @@
  
 {"key":"js豆瓣","name":"🅱️追剧影院|T热播","type":3,"api":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/doubanrebo1.js","ext":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/doubanrebo2.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key": "dr_豆瓣","name": "🅱️追剧影院|T荐片","type": 3,"api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
+{"key": "dr_豆瓣","name": "🅱️追剧影院|T荐片","type": 3,"api": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/doubanjianpian1.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/doubanjianpian2.js"},
 
 {"key":"mtv_pc_官方资源","name":"🅱️官方资源|T追剧","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
