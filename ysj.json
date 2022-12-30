@@ -25,9 +25,9 @@
 
 {"key":"AppTT","name":"🅱️图图影视|T追剧","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/ts.txt;md5; 8DB029245922B0D8BA98D6C51EA8252D"},
 
-{"key": "py_cctv_full","name": " 📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/zqk219/yingshicang/raw/master/TVBox_Py/py/py_cctv_full.py"},
+{"key": "py_cctv_full","name": " 📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/py_ysdq.py"},
 	
-{"key": "py_cctv","name": " 📺央视栏目自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/zqk219/yingshicang/raw/master/TVBox_Py/py/py_cctv.py"},
+{"key": "py_cctv","name": " 📺央视栏目自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/py_yszx.py"},
 
 {"key": "csp_XYQ_lu1","name": "️ 🇨🇳电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://jsd.cdn.zzko.cn/gh/c120487/00@713ba413f281ce9e2ea7f1d92f9af2ab02343e63/nmtv.json"},
 
