@@ -134,10 +134,10 @@
     },
     
     {
-      "key": "*抖阴视频",
-      "name": "😍抖阴视频",
+      "key": "*三级片资源",
+      "name": "😍三级片源",
       "type": 1,
-      "api": "https://www.888dav.com/api.php/provide/vod/",
+      "api": "https://caiji.jjjzy.cc/inc/apijson_vod.php",
       "searchable": 0,
       "quickSearch": 0
     },
