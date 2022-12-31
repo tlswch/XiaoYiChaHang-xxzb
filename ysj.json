@@ -206,6 +206,20 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"嗅探聚合","type":3,"url":"Web"},
 
+
+
+{"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url=","header":{"User-Agent":"Mozilla/5.0"}},
+          
+          
+{"name":"刚刚走过","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
+           
+           
+{"name":"4K","url":"https://jx.4kdv.com/?url=", "showType":1},
+          
+          
+{"name":"高速接口","url":"https://jsap.attakids.com/?url=", "showType":3},
+          
+
 {"name":"小易茶行","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url=","ext": {"flag":["rx","ltnb","renrenmi","rongxing","bilibili","哔哩哔哩","哔哩","youku","优酷","qiyi","爱奇艺","奇艺","qq","腾讯","mgtv","芒果","sohu","搜狐","letv","乐视","xigua","CL4K","西瓜"]}},
 
 {"name":"茶行嗅探","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
