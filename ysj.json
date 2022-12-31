@@ -203,11 +203,7 @@
 
 "parses":[
 
-
 {"name":"小易茶行","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
-
-
-{"name":"okjx","type": 0,"url": "https://okjx.cc?url="},
 
 {"name":"茶行嗅探","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 
