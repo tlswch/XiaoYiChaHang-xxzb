@@ -203,6 +203,47 @@
 
 "parses":[{"name":"聚合解析","type":3,"url":"Demo"},{"name":"并发解析","type":2,"url":"Parallel"},{"name":"轮询解析","type":2,"url":"Sequence"},{"name": "小易茶行","type": 1,"url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 
+
+{"name":"cuan","type": 0,"url":"https://www.cuan.la/m3u8.php?url="},
+
+{"name":"1907","type": 0,"url":"https://z1.m1907.cn/?jx="},
+
+{"name":"smys8","type": 0,"url":"https://jxx.smys8.cn/index.php?url="},
+
+{"name":"8090","type": 0,"url":"https://www.8090g.cn/jiexi/?url="},
+
+{"name":"解析1","type": 0,"url":"https://okjx.cc?url="},
+
+{"name":"解析2","type": 0,"url":"http://api.baiyug.vip/index.php?url=},
+
+{"name":"解析3","type": 0,"url":"http://playx.top/?url="},
+
+{"name":"解析4","type": 0,"url":"http://play1.online/?url="},
+
+{"name":"解析5","type": 0,"url":"http://api.baiyug.vip/?url="},
+
+{"name":"解析6","type": 0,"url":"http://bofang.online/?url="},
+
+{"name":"解析7","type": 0,"url":"http://607p.com/?url="},
+
+{"name":"解析8","type": 0,"url":"http://pangujx.cc/?url="},
+
+{"name":"解析9","type": 0,"url":"http://jx.quanmingjiexi.com/?url="},
+
+{"name":"解析10","type": 0,"url":"http://jqaaa.com/jx.php?url="},
+
+{"name":"解析11","type": 0,"url":"https://www.qianyicp.com/jiexi\/index.php?url="},
+
+{"name":"解析12","type": 0,"url":"https://www.xymav.com/?url="},
+
+{"name":"解析13","type": 0,"url":"https://jx.mw0.cc/?url="},
+
+{"name":"解析14","type": 0,"url":"https://jx.618g.com/?url="},
+
+{"name":"解析15","type": 0,"url":"https://plamgtvcache.ccyjjd.com/play.php?url="},
+
+{"name":"1717云","type": 0,"url":"https://www.1717yun.com\/jx/ty.php?url="},
+
 {"name":"小易茶室","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
 
 {"name":"小易解析","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
