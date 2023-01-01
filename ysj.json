@@ -1,4 +1,4 @@
-	{
+{
 //小易茶行jar
 
 "spider":"https://xxooo.ml/WBRcwW",
@@ -22,15 +22,6 @@
 {"key": "小苹果","name": "🅱️苹果影视|T追剧","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"mtv_pc_快看影视","name":"🅱️快看影视|T追剧","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
-
-{"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
-
-{"key":"csp_AppTT","name":"🐰tutu┃SP","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
-
-{"key":"csp_Lgyy","name":"🌀蓝光┃SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1 "jar":""},
-
 
 {"key":"AppTT","name":"🅱️图图影视|T追剧","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/ttys.txt"},
 
@@ -215,13 +206,6 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 
 {"name":"嗅探聚合","url":"https://jx.4kdv.com/?url=", "showType":1},
-
-
-{"name": "未知","type": 0,"url": "https://h5.freejson.xyz/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}}, 
-    
-{"name": "可与","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}}, 
-
-{"name":"小易解析","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
 
 {"name":"小易茶行","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url=","ext": {"flag":["rx","ltnb","renrenmi","rongxing","bilibili","哔哩哔哩","哔哩","youku","优酷","qiyi","爱奇艺","奇艺","qq","腾讯","mgtv","芒果","sohu","搜狐","letv","乐视","xigua","CL4K","西瓜"]}},
 
