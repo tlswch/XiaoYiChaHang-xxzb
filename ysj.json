@@ -1,7 +1,7 @@
 {
 //小易茶行jar
 
-"spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/FXZ15.png",
+"spider":"https://xxooo.ml/WBRcwW",
 
 //电视直播
 
@@ -32,10 +32,6 @@
 {"key": "csp_XYQ_lu1","name": "️ 🇨🇳电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://jsd.cdn.zzko.cn/gh/c120487/00@713ba413f281ce9e2ea7f1d92f9af2ab02343e63/nmtv.json"},
 
 {"key": "美食","name": "️ 🇨🇳天下美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/3kky8p7o.json"},
-
-{"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
-{"key":"csp_AppTT","name":"🐰tutu┃SP","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
-{"key":"csp_Lgyy","name":"🌀蓝光┃SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_QQ","name":"🏠腾讯视频","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 
