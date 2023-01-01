@@ -25,11 +25,11 @@
 
 {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
+{"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,""jar":""},
 
 {"key":"csp_AppTT","name":"🐰tutu┃SP","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
 
-{"key":"csp_Lgyy","name":"🌀蓝光┃SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Lgyy","name":"🌀蓝光┃SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1 "jar":""},
 
 
 {"key":"AppTT","name":"🅱️图图影视|T追剧","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/ttys.txt"},
