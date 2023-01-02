@@ -1,4 +1,11 @@
-{
+
+
+{"spider":"http://52bsj.vip:98/xychjar",
+
+//电视直播
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvNzE1NDcvemJ5LnR4dD9zaWduPTV5STd2SEVUbXBxeHZyNTdqZVlZM1VMTGlMaWpoaEdIY0JBWlJrRWdOQ2clM0QlM0Ew"]}]}],
+
+
 "sites":
 [
  {"key": "date", "name": "🈲18成人视频🈲", "type": 0, "api": ""},
@@ -133,14 +140,10 @@
       "quickSearch": 0
     },
     
-    {
-      "key": "*三级片资源",
-      "name": "😍三级片源",
-      "type": 1,
-      "api": "https://caiji.jjjzy.cc/inc/apijson_vod.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
+  {"key":"csp_xBPQ_新香蕉国产传媒","name":"😍国产传媒","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/71892/%E6%96%B0%E9%A6%99%E8%95%89%E5%9B%BD%E4%BA%A7%E4%BC%A0%E5%AA%92.json?sign=o8WfPjT4NFpXRoYlBH2eByyBe9GSQ17vOnOu8fx1FkE%3D%3A0"},
+  
+
+
     {
       "key": "*奶茶资源",
       "name": "😍奶茶资源",
