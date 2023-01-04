@@ -1,0 +1,6 @@
+本地全局接口
+clan://localhost/tvbox/tvbox.json
+本地多仓接口内包含在线接口
+clan://localhost/tvbox/a
+文件“1”和“2”不用理会
+其他后缀为json的文件是对应不同规则的单个接口
