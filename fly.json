@@ -157,16 +157,6 @@
  },
  
  {
-  "key": "00523",
-  "name": "😍523v|资源",
-  "type": 1,
-  "api": "https://caiji.523zyw.com/inc/apijson_vod.php",
-  "playUrl":"https://api.523zyw.com/?url=",
-  "searchable": 1,
-  "quickSearch": 1
- },
- 
- {
   "key": "00花魁资源",
   "name": "😍花魁|资源",
   "type": 1,
