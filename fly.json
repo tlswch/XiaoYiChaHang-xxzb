@@ -50,6 +50,8 @@
 
 {"key":"csp_xBPQ_性欲轮回[分类]","name":"😍轮回|分类","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/性欲轮回[分类].json"},
 
+{"key":"色南国资源","name":"😍色南国源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"ASMR","name":"😍AsMr|资源","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"CK资源2","name":"😍CK| 资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
@@ -114,31 +116,6 @@
   "quickSearch": 1
  },
 
-    {
-      "key": "*皇冠资源",
-      "name": "😍皇冠资源",
-      "type": 1,
-      "api": "https://hghhh.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "*狼友资源",
-      "name": "😍狼友资源",
-      "type": 1,
-      "api": "https://www.langyouzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "*色南国资源",
-      "name": "😍南国资源",
-      "type": 1,
-      "api": "https://api.sexnguon.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-
  {
   "key": "00秀色资源",
   "name": "😍秀色|资源",
@@ -167,15 +144,7 @@
   "searchable": 1,
   "quickSearch": 1
  },
- {
-  "key": "00丝袜资源",
-  "name": "😍丝袜|资源",
-  "type": 1,
-  "api": "https://siwazyw.cc/api.php/provide/vod/",
-  "playUrl":"https://help.siwazywcdn2.com:5278/m3u8.php?url=",
-  "searchable": 1,
-  "quickSearch": 1
- },
+
 
  {
   "key": "00mgzy",
@@ -183,15 +152,6 @@
   "type": 1,
   "api": "https://mgzyz1.com/api.php/provide/vod/",
   "playUrl":"https://mgm3u8-player.com/player/DPm3u8.php?url=",
-  "searchable": 1,
-  "quickSearch": 1
- },
- {
-  "key": "00葡萄资源",
-  "name": "😍葡萄|资源",
-  "type": 1,
-  "api": "https://api.putaozy.net/inc/apijson_vod.php",
-  "playUrl":"https://jiexi.putaozy.net/m3u8/?url=",
   "searchable": 1,
   "quickSearch": 1
  },
@@ -216,23 +176,6 @@
   "quickSearch": 1
  },
  
- {
-      "key": "*玖玖资源",
-      "name": "😍玖玖资源",
-      "type": 0,
-      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    
-    {
-      "key": "*奶茶资源",
-      "name": "😍奶茶资源",
-      "type": 1,
-      "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
     {
       "key": "*色屌丝资源",
       "name": "😍屌丝资源",
@@ -241,25 +184,6 @@
       "searchable": 0,
       "quickSearch": 0
     },
- 
-    {
-      "key": "00酷豆采集",
-      "name": "😍酷豆|资源",
-      "type": 1,
-      "api": "https://api.kdapi.info/api.php/provide/vod/?ac=list",
-      "playUrl": "https://jx.kubohk.com/jx/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
- {
-  "key": "鲨鱼资源",
-  "name": "😍鲨鱼资源",
-  "type": 1,
-  "api": "https://shayuapi.com/api.php/provide/vod/",
-  "searchable": 1,
-  "quickSearch": 1
- },
 
 
  {
@@ -272,16 +196,6 @@
   "filterable": 1
  },  
  
-
-    {
-      "key": "zp059",
-      "name": "😍番号|资源",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },	
 	{
       "key": "zp011",
       "name": "😍七八|资源",
@@ -337,25 +251,7 @@
   "quickSearch": 1,
   "filterable": 1
  },
- 
- {
-  "key": "❤大MM资源",
-  "name": "😍大咪咪|源",
-  "type": 0,
-  "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml",
-  "searchable": 1,
-  "quickSearch": 1
- },
- 
-	{
-      "key": "哥哥妹妹",
-      "name": "😍哥哥|妹妹",
-      "type": 0,
-      "api": "http://www.ggmmzy.com:9999/inc/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+
 	    {
       "key": "*草榴视频",
       "name": "😍草榴|资源",
