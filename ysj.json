@@ -16,8 +16,6 @@
 
 {"key":"csp_xBPQ_360影视","name":"🅱️官方资源|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/360影视.json"},
 
-//{"key":"mtv_pc_官方资源","name":"🅱️官方资源|T追剧","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key": "小苹果","name": "🅱️苹果影视|T追剧","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"AppTT","name":"🅱️图图影视|T追剧","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/ttys.txt"},
