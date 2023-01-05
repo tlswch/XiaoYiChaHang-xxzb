@@ -16,7 +16,7 @@
 
 {"key":"mtv_pc_官方资源","name":"🅱️官方资源|T追剧","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"AppTT","name":"🅱️图图影视|T追剧","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"./tvbox/tu/ttys.txt"},
+{"key":"AppTT","name":"🅱️图图影视|T追剧","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"./tvbox/tu/.ttys.txt"},
 
 {"key":"csp_xBPQ_鸭奈飞影视","name":"🅱️鸭奈飞剧|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/鸭奈飞影视.json"},
 
