@@ -26,15 +26,6 @@
 
 {"key": "小苹果","name": "🅱️苹果影视|T追剧","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "py_cctv_full","name": " 📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_ysdq.py"},
-	
-{"key": "py_cctv","name": " 📺央视栏目自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_yszx.py"},
-
-
-{"key": "csp_XYQ_lu1","name": "️ 🇨🇳电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./tvbox/TV/dszb.json"},
-
-{"key": "美食","name": "️ 🇨🇳天下美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/3kky8p7o.json"},
-
 {"key":"csp_xBPQ_蓝光影院","name":"🏠蓝光影院|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/蓝光影院.json"},
 
 {"key":"乐猪影视","name":"🏠乐猪影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/乐猪影视.json"},
@@ -58,6 +49,15 @@
 {"key":"csp_xBPQ_黑狐影院","name":"🏠黑狐影院|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/黑狐影院.json"},
 
 {"key":"csp_xBPQ_万能影院","name":"🏠万能影院|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/万能影院.json"},
+
+{"key": "py_cctv_full","name": " 📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_ysdq.py"},
+	
+{"key": "py_cctv","name": " 📺央视栏目自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_yszx.py"},
+
+
+{"key": "csp_XYQ_lu1","name": "️ 🇨🇳电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./tvbox/TV/dszb.json"},
+
+{"key": "美食","name": "️ 🇨🇳天下美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/3kky8p7o.json"},
 
 {"key":"csp_xBPQ_红领巾影院","name":"🏠红领巾剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/红领巾影院.json"},
 
