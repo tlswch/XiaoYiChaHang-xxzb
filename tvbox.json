@@ -1,7 +1,7 @@
 {
 "spider":"./tvbox/JAR/Yoursmile.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./TV/zbt.txt"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./tvbox/TV/zbt.txt"]}]}],
 
 "wallpaper":"http://maoyingshi.cc/api.php",
 
