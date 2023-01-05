@@ -261,8 +261,6 @@
 
 {"key":"mtv_xp_动漫直链","name":"🏠动漫直链（切片）","type":3,"api":"csp_XPath"         ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-动漫直链.json"},
 
-{"key":"mtv_xp_动漫岛源","name":"🏠动漫岛源（切片）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-动漫岛源.json"},
-
 {"key":"mtv_xp_维奇动漫","name":"🏠维奇动漫（切片）","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-维奇动漫.json"},
 
 {"key":"csp_Biliych","name":"👀看演唱会","type": 3,"api": "csp_Bili","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://饭太硬.ga/x/json/biliych.json"},
