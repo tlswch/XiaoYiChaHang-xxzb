@@ -38,8 +38,6 @@
 
 {"key":"csp_xBPQ_子子影视","name":"🏠子子影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/子子影视.json"},
 
-{"key":"csp_xBPQ_胖虎影视","name":"🏠胖虎影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/胖虎影视.json"},
-
 {"key":"csp_xBPQ_城市电影","name":"🏠城市电影|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/城市电影.json"},
 
 {"key":"csp_xBPQ_TVB云播","name":"🏠TVB云播|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/TVB云播.json"},
@@ -60,6 +58,8 @@
 {"key": "csp_XYQ_lu1","name": "️ 🇨🇳电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./tvbox/TV/dszb.json"},
 
 {"key": "美食","name": "️ 🇨🇳天下美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/3kky8p7o.json"},
+
+{"key":"csp_xBPQ_胖虎影视","name":"🏠胖虎影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/胖虎影视.json"},
 
 {"key":"csp_xBPQ_红领巾影院","name":"🏠红领巾剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/红领巾影院.json"},
 
@@ -214,7 +214,7 @@
 
 {"key": "csp_xb_luozhu","name": "🏠乐猪影院","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.lezhutv.com/list/{cateId}_{catePg}__time_____.html","jar":""},
 
-{"key":"mtv_pc_利奥影视","name":"🏠利奥影视","type":3,"api":"csp_Lib"           ,"searchable":1,"quickSearch":1,"filterable":0},
+{"key":"mtv_pc_利奥影视","name":"🏠利奥影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key": "csp_Tkys","name": "🏠天空影视","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 
@@ -226,9 +226,7 @@
 
 {"key":"csp_Lib","name": "🏠LIBvio剧","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"mtv_pc_奥特影视","name":"🏠奥特影视","type":3,"api":"csp_Auete"         ,"searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_xbb_黑狐影视ns","name":"🏠黑狐影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/黑狐影视ns.json"},
+{"key":"mtv_pc_奥特影视","name":"🏠奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_xp_348z","name":"🏠三四八剧","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/348z.json"},
 
