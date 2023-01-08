@@ -155,8 +155,6 @@
 
 {"key":"csp_xBPQ_量子影视","name":"🏠量子影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/量子影视.json"},
 
-{"key":"csp_xBPQ_听书网","name":"🏠聆听书网️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/听书网.json"},
-
 {"key":"csp_xp_bttwoo","name":"🏠两个磁力","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/bttwoo.json"}, 
 
 {"key":"百影视频","name":"🏠百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":""},
@@ -240,8 +238,6 @@
 {"key":"mtv_xp_动漫巴士","name":"🏠动漫巴士（切片）","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-动漫巴士.json"},
 
 {"key":"mtv_xp_动漫直链","name":"🏠动漫直链（切片）","type":3,"api":"csp_XPath"         ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-动漫直链.json"},
-
-{"key":"mtv_xp_动漫岛源","name":"🏠动漫岛源（切片）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-动漫岛源.json"},
 
 {"key":"mtv_xp_维奇动漫","name":"🏠维奇动漫（切片）","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-维奇动漫.json"},
 
