@@ -214,8 +214,6 @@
 
 {"key": "csp_xBPQ_花猫","name": "️🏠花猫影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "{\"副标题\":\"class=\\\"pic-text\\\">&&</span>\",\"线路数组\": \"/span><h3 class=\\\"title&&/h3>\",\"线路标题\": \">&&<\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类url\":\"http://www.huamaotv.com/type/{cateId}-{catePg}.html\",\"年份\":\"1990-2022\",\"筛选\":\"1\"}"},
 
-{"key": "csp_xb_luozhu","name": "🏠乐猪影院","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.lezhutv.com/list/{cateId}_{catePg}__time_____.html","jar":""},
-
 {"key":"mtv_pc_利奥影视","name":"🏠利奥影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key": "csp_Tkys","name": "🏠天空影视","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
