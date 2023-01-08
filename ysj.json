@@ -2,7 +2,7 @@
 //小易茶行追剧影院
 
 {
-"spider":"./tvbox/JAR/Yoursmile.jar",
+"spider":"./tvbox/JAR/XiaoYiChaHang.png",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./tvbox/TV/zby.txt"]}]}],
 
