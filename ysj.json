@@ -16,9 +16,9 @@
 
 {"key":"mtv_pc_官方资源","name":"🅱️官方资源|T追剧","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"AppTT","name":"🅱️图图影视|T追剧","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"./tvbox/tu/ttys.txt"},
-
 {"key":"csp_xBPQ_鸭奈飞影视","name":"🅱️鸭奈飞剧|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/鸭奈飞影视.json"},
+
+{"key":"csp_xBPQ_蓝光影院","name":"🅱️蓝光影院|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/蓝光影院.json"},
 
 {"key":"csp_xBPQ_诺讯影视","name":"🅱️诺讯影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/诺讯影视.json"},
 
@@ -26,7 +26,7 @@
 
 {"key": "小苹果","name": "🅱️苹果影视|T追剧","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"csp_xBPQ_蓝光影院","name":"🏠蓝光影院|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/蓝光影院.json"},
+
 
 {"key":"乐猪影视","name":"🏠乐猪影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/乐猪影视.json"},
 
@@ -46,6 +46,9 @@
 
 {"key":"csp_xBPQ_花猫TV","name":"🏠花猫影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/花猫TV.json"},
 
+
+{"key":"007影视","name":"🏠零柒影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/零零七影视.json"},
+
 {"key":"csp_xBPQ_黑狐影院","name":"🏠黑狐影院|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/黑狐影院.json"},
 
 {"key":"csp_xBPQ_万能影院","name":"🏠万能影院|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/万能影院.json"},
@@ -58,6 +61,10 @@
 {"key": "csp_XYQ_lu1","name": "️ 🇨🇳电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./tvbox/TV/dszb.json"},
 
 {"key": "美食","name": "️ 🇨🇳天下美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/3kky8p7o.json"},
+
+
+
+
 
 {"key":"csp_xBPQ_胖虎影视","name":"🏠胖虎影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/胖虎影视.json"},
 
