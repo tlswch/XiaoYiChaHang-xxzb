@@ -54,8 +54,6 @@
 
 {"key":"乐猪影视","name":"🏠乐猪影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/乐猪影视.json"},
 
-{"key":"csp_xBPQ_胖虎影视","name":"🏠胖虎影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/胖虎影视.json"},
-
 {"key":"csp_xBPQ_红领巾影院","name":"🏠红领巾剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/红领巾影院.json"},
 
 {"key":"csp_xBPQ_浮生半日","name":"🏠浮生半日","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/浮生半日.json"},
@@ -135,8 +133,6 @@
 
 
 //{"key":"csp_xBPQ_莫扎兔","name":"🏠莫扎兔剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/莫扎兔.json"},
-
-{"key":"csp_xBPQ_APP影院","name":"🏠APP影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/APP影院.json"},
 
 {"key":"csp_xBPQ_疯狗电影","name":"🏠疯狗电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/疯狗电影.json"},
 
