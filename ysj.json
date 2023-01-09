@@ -49,11 +49,11 @@
 
 {"key":"csp_biubiu_真不卡影院","name":"🏠不卡影院","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./tvbox/xBPQ/zbkyy.json"},
 
-{"key":"csp_biubiu_voflixHD","name":"🏠Voflix剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://js.134584.xyz/0907/voflixHD.json"},
+{"key":"csp_biubiu_voflixHD","name":"🏠Voflix剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/xBPQ/voflixhd.json"},
 
 {"key":"YQK_spider","name":"🏠一起看剧","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar": ""},
 
-{"key":"csp_xp_bttwoo","name":"🏠两个磁力","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/bttwoo.json"}, 
+{"key":"csp_xp_bttwoo","name":"🏠两个磁力","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./tvbox/xBPQ/bttwo.json"}, 
 
 {"key":"csp_xBPQ_红领巾影院","name":"🏠红领巾剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/红领巾影院.json"},
 
