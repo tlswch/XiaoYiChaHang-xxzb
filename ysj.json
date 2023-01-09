@@ -5,7 +5,7 @@
 
 //电视直播
 
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL1hpYW9ZaUNoYUhhbmcveHh6Yi9yYXcvYnJhbmNoL21hc3Rlci96YnkudHh0"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=./tvbox/TV/zby.txt"]}]}],
 
 "sites": [ 
  
