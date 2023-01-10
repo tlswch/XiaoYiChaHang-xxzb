@@ -89,7 +89,7 @@
 
 {"key":"360_spider","name":"🏠360 影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""}, 
 
-{"key":"csp_xpath_vip1280","name":"🏠Vip 影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://js.134584.xyz/0907/vip1280.json"},
+{"key":"csp_xpath_vip1280","name":"🏠Vip 影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/xBPQ/vip1280.json"},
 
 {"key":"哔滴","name":"🏠哔滴影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
