@@ -25,6 +25,11 @@
 
 {"key":"AppTT","name":"🅱️图图影视|T追剧","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"./tvbox/tu/ttys.txt"},
 
+{"key":"csp_xBPQ_爱酷影视","name":"🅱️爱酷影视|追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/爱酷影视.json"},
+
+
+{"key":"csp_xBPQ_TVB云播","name":"🅱️TVB云播|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/TVB云播.json"},
+
 {"key": "py_cctv_full","name": " 📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_ysdq.py"},
 	
 {"key": "py_cctv","name": " 📺央视栏目自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_yszx.py"},
