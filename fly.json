@@ -6,8 +6,6 @@
 
 "wallpaper":"http://maoyingshi.cc/api.php",
 
-
-
 "sites":
 [
  {"key": "date", "name": "🈲18成人视频🈲", "type": 0, "api": ""},
@@ -17,6 +15,10 @@
  {"key":"drpy_js_猫了个咪","name":"😍猫了|个咪","type":3,"api":"./tvbox/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/JS/js/猫了个咪.js"},
  
 {"key":"drpy_js_黄瓜TV","name":"😍黄瓜|资源","type":3,"api":"./tvbox/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/JS/js/黄瓜TV.js"},
+
+{"key":"csp_xBPQ_掏爱撸","name":"😍掏爱撸源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/掏爱撸.json","jar":"./tvbox/JAR/XBPQ_0109.jar"},
+
+{"key":"csp_xBPQ_GAOAA","name":"😍搞爱资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/GAOAA.json","jar":"./tvbox/JAR/XBPQ_0109.jar"},
 
 {"key":"csp_xBPQ_新香蕉中文字幕","name":"😍香蕉|中文","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/新香蕉中文字幕.json"},
 
