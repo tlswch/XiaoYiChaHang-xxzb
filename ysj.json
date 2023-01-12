@@ -210,13 +210,9 @@
 
 //{"key": "Upyunso","name": "🔍云搜|爬虫","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok"},
 
-{"key":"易搜","name":"🔍易搜|网盘","type":3,"api":"csp_YiSo","ext":"./tvbox/JS/lib/token.txt"},
+{"key":"csp_Gitcafe","name":"小纸条〔SP〕","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 
-{"key":"盘搜","name":"🔍盘搜|网盘","type":3,"api":"csp_PanSou","ext":"./tvbox/JS/lib/token.txt"},
-
-{"key":"UP云搜","name":"🔍云搜|网盘","type":3,"api":"csp_UpYun","ext":"./tvbox/JS/lib/token.txt"},
-
-{"key":"找资源","name":"🔍找源|网盘","type":3,"api":"csp_Zhaozy","ext":"./tvbox/JS/lib/token.txt"}],
+{"key":"Gitcafe","name":"小纸条〔ts〕","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"./tvbox/JAR/cs.jar"}],
 
 
   
