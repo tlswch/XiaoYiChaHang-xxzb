@@ -13,9 +13,7 @@
 
 {"key": "dr_豆瓣","name": "🅱️追剧影院|T荐片","type": 3,"api": "./tvbox/JS/js/doubanjianpian1.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./tvbox/JS/js/doubanjianpian2.js"},
 
-//{"key":"csp_xBPQ_360影视","name":"🅱️官方资源|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/360影视.json"},
-
-{"key":"drpy_js_360影视","name":"360[js]","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/360影视.js"},
+{"key":"drpy_js_360影视","name":"🅱️官方资源|T追剧","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/360影视.js"},
 
 {"key": "drpy_js_菜狗","name": "🅱️搜狗影视|T追剧","type": 3,"api": "./tvbox/JS/js/sougou1.js","ext": "./tvbox/JS/js/sougou2.js"},
 
