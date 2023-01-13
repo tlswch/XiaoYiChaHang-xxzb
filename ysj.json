@@ -27,8 +27,7 @@
 
 {"key":"csp_xBPQ_爱酷影视","name":"🅱️爱酷影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/爱酷影视.json"},
 
-{"key":"csp_xBPQ_剧迷线上看","name":"🅱️剧迷在线|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/剧迷线上看.json"},
-
+{"key":"csp_SP293","name":"🅱️玖叁影视|T追剧","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"./tvbox/JAR/293.jar;md5;E7DC9DEDDBAD6457AEC946B7EFE8F483"},
 
 {"key": "py_cctv_full","name": " 📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_ysdq.py"},
 	
@@ -122,7 +121,7 @@
 
 {"key":"csp_xbb_手机看剧","name":"🏠手机看剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/xBPQ/手机看剧.json"},
 
-{"key":"csp_SP293","name":"🏠293 看剧","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"./tvbox/JAR/293.jar;md5;E7DC9DEDDBAD6457AEC946B7EFE8F483"},
+{"key":"csp_xBPQ_剧迷线上看","name":"🏠剧迷在线","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/剧迷线上看.json"},
 
 {"key":"drpy_js_348z","name":"🏠三四八剧","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/348电影网.js"},
 
