@@ -160,7 +160,7 @@
 
 {"key":"相声小品","name":"👀相声小品","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 
-{"key":"csp_XYQBiu_酷狗MV","name":"🎶酷狗MTV","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/XYQ/酷狗MV.json"},
+{"key":"drpy_js_音悦网","name":"🎶音悦MTV","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/音悦网.js"},
 
 {"key":"csp_XYQBiu_酷奇MV","name":"🎶酷奇MTV","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/XYQ/酷奇MV.json"},
 
