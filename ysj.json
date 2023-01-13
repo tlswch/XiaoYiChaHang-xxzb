@@ -80,7 +80,7 @@
 
 {"key":"3EDY","name":"🏠飘花影视","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 
-{"key": "drpy_js_喵喵", "name": "🏠喵喵影视","type": 3, "api": "./tvbox/JS/js/drpy.js", "ext": "./tvbox/JS/js/喵喵.js"},
+{"key": "drpy_js_喵喵", "name": "🏠喵喵影视","type": 3, "api": "./tvbox/JS/js/drpy.js","ext": "./tvbox/JS/js/喵喵.js"},
 
 {"key":"csp_xBPQ_创意影视","name":"🏠创意影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/创意影视.json"},
 
@@ -117,6 +117,12 @@
 {"key":"csp_xBPQ_LIBVIO","name":"🏠LIBvio剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/LIBVIO.json"},
 
 {"key":"mtv_pc_奥特影视","name":"🏠奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_xbb_手机看剧","name":"🏠手机看剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/xBPQ/手机看剧.json"},
+
+{"key":"csp_SP293","name":"🏠293 看剧","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"./tvbox/JAR/293.jar;md5;E7DC9DEDDBAD6457AEC946B7EFE8F483"},
+
+{"key":"drpy_js_348z","name":"🏠三四八剧","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/348电影网.js"},
 
 {"key":"csp_xBPQ_黑狐影院","name":"🏠黑狐影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/黑狐影院.json"},
 
