@@ -94,7 +94,7 @@
 
 {"key":"csp_xBPQ_溪谷影视","name":"🏠溪谷影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/溪谷影视.json"},
 
-{"key":"csp_xBPQ_低端影视","name":"🏠低端影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/低端影视.json"},
+{"key":"drpy_js_低端","name":"🏠低端影视","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/ddys.js"},
 
 {"key": "csp_xBPQ_野荷塘","name": "🏠荷塘影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"0\",\"嗅探词\": \"m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#.mp4#item/video#is_play_url=1\",\"副标题\": \"vod_remarks*>&&<\",\"播放数组\": \"mdui-panel-item-body&&</div\",\"线路数组\": \"mdui-panel-item-title&&/div\",\"分类\":\"国产电视剧$13#电视剧$2#电影$1#动漫$4#综艺$3\",\"分类url\":\"https://yehetang.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html\",\"年份\":\"2000-2022\",\"筛选\":\"1\"}","jar":""},
 
