@@ -48,6 +48,8 @@
 
 {"key":"csp_xBPQ_性欲轮回[分类]","name":"😍轮回|分类","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/性欲轮回[分类].json"},
 
+{"key":"csp_xBPQ_色花堂","name":"😍色花堂源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/色花堂.json","jar":"./tvbox/JAR/xBPQ_0111.jar"},
+
 {"key":"色南国资源","name":"😍色南国源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"ASMR","name":"😍AsMr|资源","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
