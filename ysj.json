@@ -27,7 +27,9 @@
 
 {"key":"csp_xBPQ_爱酷影视","name":"🅱️爱酷影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/爱酷影视.json"},
 
-{"key":"csp_SP293","name":"🅱️玖叁影视|T追剧","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"./tvbox/JAR/293.jar;md5;E7DC9DEDDBAD6457AEC946B7EFE8F483"},
+{"key":"csp_xBPQ_素白白","name":"🅱️素白白剧|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/素白白.json"},
+
+//{"key":"csp_SP293","name":"🅱️玖叁影视|T追剧","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"./tvbox/JAR/293.jar;md5;E7DC9DEDDBAD6457AEC946B7EFE8F483"},
 
 {"key": "py_cctv_full","name": " 📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_ysdq.py"},
 	
@@ -79,7 +81,7 @@
 
 {"key":"3EDY","name":"🏠飘花影视","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 
-{"key": "drpy_js_喵喵", "name": "🏠喵喵影视","type": 3, "api": "./tvbox/JS/js/drpy.js","ext": "./tvbox/JS/js/喵喵.js"},
+{"key":"csp_xBPQ_胖虎影视","name":"🏠胖虎影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/胖虎影视.json"},
 
 {"key":"csp_xBPQ_创意影视","name":"🏠创意影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/创意影视.json"},
 
