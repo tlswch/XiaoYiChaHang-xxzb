@@ -82,13 +82,13 @@
 
 {"key":"3EDY","name":"🏠飘花影视","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 
-{"key": "drpy_js_喵喵", "name": "🏠2345影视","type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js", "ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%96%b5%e5%96%b5.js"},
+{"key": "drpy_js_喵喵", "name": "🏠喵喵影视","type": 3, "api": "./tvbox/JS/js/drpy.js","ext": "./tvbox/JS/js/喵喵.js"},
 
-{"key" : "py_cyys","name" : "🏠创艺影视","type" : 3,"api" : "py_cyys","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cyys.py"},
+{"key":"csp_xBPQ_创意影视","name":"🏠创意影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/创意影视.json"},
 
-{"key":"sliu_spider","name":"🏠石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"jar": ""},
+{"key":"石榴电影","name":"🏠石榴电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/石榴电影.json"},
 
-{"key":"niketv_spider","name":"🏠耐客影视","api":"csp_NikeTV","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1 ,"jar": ""},
+{"key":"csp_xBPQ_Nike影视网","name":"🏠耐克影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/Nike影视网.json"},
 
 {"key":"csp_Bttoo","name":"🏠BTToo剧","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1}, 
 
