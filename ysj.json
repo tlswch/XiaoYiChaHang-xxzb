@@ -55,7 +55,9 @@
 
 {"key":"csp_xBPQ_真不卡影院","name":"🏠不卡影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/真不卡影院.json"},
 
-{"key":"drpy_js_哔哩影视","name":"🏠哔哩影视","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/哔哩影视.js"},
+{"key":"drpy_js_影渣渣","name":"🏠渣渣影视","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/影渣渣.js"},
+
+//{"key":"drpy_js_哔哩影视","name":"🏠哔哩影视","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/哔哩影视.js"},
 
 {"key":"drpy_js_蓝光影院","name":"🏠蓝光影院","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/蓝光影院.js"},
 
