@@ -1,6 +1,6 @@
 
 {
-"spider":"./tvbox/JAR/XiaoYiChaHang.png",
+"spider":"./tvbox/JAR/Yoursmile.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./tvbox/TV/zby.txt"]}]}],
 
