@@ -57,7 +57,7 @@
 
 {"key":"drpy_js_哔哩影视","name":"🏠哔哩影视","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/哔哩影视.js"},
 
-{"key":"drpy_js_布雷蓝光","name":"🏠布雷蓝光","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/布雷蓝光.js"},
+{"key":"drpy_js_蓝光影院","name":"🏠蓝光影院","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/蓝光影院.js"},
 
 {"key":"csp_xBPQ_voflixHD","name":"🏠Voflix剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/voflixHD.json"},
 
