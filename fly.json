@@ -66,6 +66,8 @@
 
 {"key":"JAV名优","name":"😍JAV|名优","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"黄瓜TV资源","name":"😍黄瓜|资源","type":0,"api":"https://caiji10.com/home/cjapi/cfs6/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"色南国资源","name":"😍色南国源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"ASMR","name":"😍AsMr|资源","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
