@@ -40,7 +40,7 @@
 
 {"key":"csp_xBPQ_实时直播","name":"😍实时|直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/实时直播.json"},
 
-{"key":"csp_XYQHiker_18AV","name":"😍18AV|源","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/XYQH/18AV.json"},
+{"key":"csp_XYQHiker_18AV","name":"😍18AV |源","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/XYQH/18AV.json"},
 
 {"key":"csp_xBPQ_掏爱撸","name":"😍掏爱|撸管","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/掏爱撸.json"},
 
@@ -64,7 +64,7 @@
 
 {"key":"csp_xBPQ_色花堂","name":"😍色花|堂源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/色花堂.json","jar":"./tvbox/JAR/XBPQ_0111.jar"},
 
-{"key":"JAV名优","name":"😍Jav |名优","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"JAV名优","name":"😍Jav | 名优","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"黄瓜TV资源","name":"😍黄瓜|Tv源","type":0,"api":"https://caiji10.com/home/cjapi/cfs6/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":1},
 
