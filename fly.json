@@ -16,9 +16,9 @@
  
 {"key":"drpy_js_黄瓜TV","name":"😍黄瓜|资源","type":3,"api":"./tvbox/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/JS/js/黄瓜TV.js"},
 
-{"key":"csp_xBPQ_GAOAA","name":"😍搞爱资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/GAOAA.json","jar":"./tvbox/JAR/XBPQ_0109.jar"},
+{"key":"csp_xBPQ_GAOAA","name":"😍搞爱|资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/GAOAA.json","jar":"./tvbox/JAR/XBPQ_0109.jar"},
 
-{"key":"csp_xBPQ_聚优中文资源","name":"😍聚优中文","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/聚优中文资源.json","jar":"./tvbox/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_聚优中文资源","name":"😍聚优|中文","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/聚优中文资源.json","jar":"./tvbox/JAR/Yoursmile2.jar"},
 
 {"key":"csp_xBPQ_聚优超清资源","name":"😍聚优|超清","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/聚优超清资源.json","jar":"./tvbox/JAR/Yoursmile2.jar"},
 
@@ -62,9 +62,9 @@
 
 {"key":"csp_xBPQ_性欲轮回[分类]","name":"😍轮回|分类","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/性欲轮回[分类].json"},
 
-{"key":"csp_xBPQ_色花堂","name":"😍色花堂源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/色花堂.json","jar":"./tvbox/JAR/XBPQ_0111.jar"},
+{"key":"csp_xBPQ_色花堂","name":"😍色花|堂源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/色花堂.json","jar":"./tvbox/JAR/XBPQ_0111.jar"},
 
-{"key":"JAV名优","name":"😍JAV|名优","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"JAV名优","name":"😍Jav |名优","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"黄瓜TV资源","name":"😍黄瓜|Tv源","type":0,"api":"https://caiji10.com/home/cjapi/cfs6/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":1},
 
