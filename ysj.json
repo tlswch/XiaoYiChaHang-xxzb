@@ -47,7 +47,7 @@
 
 {"key" : "Alist","name" : "🔍Alist|搜索","type" : 3,"api" : "./tvbox/Panso/M.js","ext" : "./tvbox/Panso/J.json"},
  
-{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/Panso/so.json"},
+{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/XiaoYiChaHang/xyzb/raw/branch/master/tvbox/so.json"},
 
 {"key":"drpy_js_奇珍异兽","name":"官源丨奇艺","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/奇珍异兽.js"},
 
