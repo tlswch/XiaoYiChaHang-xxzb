@@ -186,13 +186,17 @@
 
 {"key":"mtv_xp_戏曲杂苑","name":"🅱戏曲杂苑","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-戏曲杂苑.json"},
 
-{"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://饭太硬.ga/x/json/alist.json"},
-{"key":"csp_Alist2","name":"🅿小丫搜索","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://101.34.67.237/txt/json/alist.json"},
-{"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok$$$xxooo$$$qq112233"},
-{"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"}],
+{"key" : "Alist","name" : "🔍Alist|搜索","type" : 3,"api" : "https://agit.ai/66666/XC/raw/branch/master/js/M.js","ext" : "https://agit.ai/66666/XC/raw/branch/master/js/J.json"},
 
+{"key": "AliPS","name": "🔍Alips|搜索","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok"},
+
+{"key": "zhaozy","name": "🔍找源|搜索","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/tok"},
+
+{"key": "Gitcafe","name": "🔍纸条|搜索","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/tok"},
+
+{"key": "Yisou","name": "🔍阿里|易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok"},
+
+{"key": "Upyunso","name": "🔍阿里|云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok"}],
 
 //解析接口
 
