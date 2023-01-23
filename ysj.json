@@ -45,6 +45,10 @@
 
 {"key":"Alips","name":"🔍阿里|云搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"./tvbox/Panso/ZT.txt"},
 
+{"key" : "Alist","name" : "🔍Alist|搜索","type" : 3,"api" : "./tvbox/Panso/M.js","ext" : "./tvbox/Panso/J.json"},
+ 
+{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/Panso/so.json"},
+
 {"key":"drpy_js_奇珍异兽","name":"官源丨奇艺","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/奇珍异兽.js"},
 
 {"key":"drpy_js_优酷","name":"官源丨优酷","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/优酷.js"},
