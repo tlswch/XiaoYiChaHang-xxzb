@@ -47,7 +47,9 @@
 
 {"key":"csp_Upyunso","name":"🔍阿里|云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/JS/lib/token.txt"},
 
-{"key":"FindZY","name":"🔍阿里|找源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/JS/lib/token.txt","jar":"./tvbox/JAR/ts.jar"},
+{"key":"FindZY","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
+
+//{"key":"FindZY","name":"🔍阿里|找源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/JS/lib/token.txt","jar":"./tvbox/JAR/ts.jar"},
 
 {"key":"csp_Gitcafe","name":"🔍纸条|盘壹","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/Panso/ztsp.txt"},
 
