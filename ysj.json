@@ -49,9 +49,9 @@
 
 {"key":"csp_Zhaozy","name":"🔍阿里|找源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/Panso/ztts.txt","jar":"./tvbox/JAR/Yoursmile.jar"},
 
-{"key":"csp_Gitcafe","name":"🔍阿里|纸条","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/Panso/ztsp.txt"},
+{"key":"csp_Gitcafe","name":"🔍阿里|纸壹","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/Panso/ztsp.txt"},
 
-{"key":"Gitcafe","name":"🔍纸条|盘贰","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/Panso/ztts.txt","jar":"./tvbox/JAR/cs.jar"},
+{"key":"Gitcafe","name":"🔍阿里|纸贰","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/Panso/ztts.txt","jar":"./tvbox/JAR/cs.jar"},
 
 //{"key":"csp_Push","name":"推送","type":3,"api":"csp_Push","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/Panso/ztts.txt"}
 
