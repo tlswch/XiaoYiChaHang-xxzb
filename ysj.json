@@ -47,7 +47,7 @@
 
 {"key":"csp_Upyunso","name":"🔍阿里|云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/JS/lib/token.txt"},
 
-{"key":"FindZY","name":"🔍阿里|找源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/Panso/ztsp.txt","jar":"./tvbox/JAR/ts.jar"},
+{"key":"找資源","name":"🔍阿里|找源","type":3,"api":"csp_Zhaozy","ext":"./tvbox/JS/lib/token.txt"},
 
 {"key":"csp_Gitcafe","name":"🔍纸条|盘壹","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/Panso/ztsp.txt"},
 
