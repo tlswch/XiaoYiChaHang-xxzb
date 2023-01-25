@@ -43,7 +43,7 @@
 
 {"key":"mtv_xp_易搜资源","name":"🔍阿里|易搜","type":3,"api":"csp_Yisou" ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/Panso/盘搜.json"},
 
-{"key":"Alips","name":"🔍阿里|盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"./tvbox/Panso/ZT.txt"},
+{"key":"Alips","name":"🔍阿里|盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"./tvbox/JS/lib/token.txt"},
 
 {"key":"csp_Gitcafe","name":"🔍纸条|盘壹","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/Panso/ztsp.txt"},
 
