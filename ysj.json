@@ -47,7 +47,9 @@
 
 {"key":"UP云搜","name":"🔍阿里|云搜","type":3,"api":"csp_UpYun","ext":"./tvbox/Panso/盘搜.json","jar":"./tvbox/JAR/Yoursmile.jar"},
 
-{"key":"csp_Zhaozy","name":"🔍阿里|找源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/Panso/ztts.txt","jar":"./tvbox/JAR/Yoursmile.jar"},
+{"key": "FindZY1","name": "🔍阿里|找源","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "f09e62df298c4567ade35d8ce1d187d6","jar":"./tvbox/JAR/0120.jar"},
+
+//{"key":"csp_Zhaozy","name":"🔍阿里|找源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/Panso/ztts.txt","jar":"./tvbox/JAR/Yoursmile.jar"},
 
 //{"key":"csp_Gitcafe","name":"🔍阿里|纸壹","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/Panso/ztsp.txt"},
 
