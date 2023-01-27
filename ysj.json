@@ -42,6 +42,7 @@
 {"key": "美食","name": "️ 🇨🇳天下美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/xBPQ/zhms.json"},
 
 //原
+
 {"key":"mtv_xp_易搜资源","name":"🔍阿里|易搜","type":3,"api":"csp_Yisou" ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/Panso/盘搜.json"},
 
 //{"key":"Alips","name":"🔍阿里|盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"./tvbox/Panso/ZT.txt"},
