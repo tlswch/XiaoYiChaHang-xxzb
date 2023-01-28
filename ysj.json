@@ -11,17 +11,17 @@
  
 {"key":"js豆瓣","name":"🏮小易茶行:祝您春节快乐!兔年大吉!🏮","type":3,"api":"./tvbox/JS/js/doubanrebo1.js","ext":"./tvbox/JS/js/doubanrebo2.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key": "dr_豆瓣","name": "🅱️追剧影院丨T荐片","type": 3,"api": "./tvbox/JS/js/doubanjianpian1.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./tvbox/JS/js/doubanjianpian2.js"},
+{"key": "dr_豆瓣","name": "🅱️追剧影院|T荐片","type": 3,"api": "./tvbox/JS/js/doubanjianpian1.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./tvbox/JS/js/doubanjianpian2.js"},
 
-{"key": "小苹果","name": "🅱️苹果影视丨T追剧","type": 3,"api": "csp_LiteApple1","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "小苹果","name": "🅱️苹果影视|T追剧","type": 3,"api": "csp_LiteApple1","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"AppTT","name":"🅱️图图影视丨T追剧","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"./tvbox/tu/ttys.txt"},
+{"key":"AppTT","name":"🅱️图图影视|T追剧","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"./tvbox/tu/ttys.txt"},
 
-{"key":"drpy_js_酷云七七","name":"🅱️炫彩影视丨T追剧","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/酷云77.js"},
+{"key":"drpy_js_酷云七七","name":"🅱️炫彩影视|T追剧","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/酷云77.js"},
 
 //{"key":"csp_AppTT2","name":"图图影视〔SP〕","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.89:7788"},
 
-{"key":"csp_xBPQ_UM影院","name":"🅱️悠慕影院丨T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/UM影院.json"},
+{"key":"csp_xBPQ_UM影院","name":"🅱️悠慕影院|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/UM影院.json"},
 
 {"key": "py_cctv_full","name": " 📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_ysdq.py"},
 	
