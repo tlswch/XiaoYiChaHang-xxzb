@@ -11,17 +11,17 @@
  
 {"key":"js豆瓣","name":"🏮小易茶行:祝您春节快乐!兔年大吉!🏮","type":3,"api":"./tvbox/JS/js/doubanrebo1.js","ext":"./tvbox/JS/js/doubanrebo2.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key": "dr_豆瓣","name": "🅱️追剧影院|T荐片","type": 3,"api": "./tvbox/JS/js/doubanjianpian1.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./tvbox/JS/js/doubanjianpian2.js"},
+{"key": "dr_豆瓣","name": "🅱️追剧影院丨T荐片","type": 3,"api": "./tvbox/JS/js/doubanjianpian1.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./tvbox/JS/js/doubanjianpian2.js"},
 
-{"key": "小苹果","name": "🅱️苹果影视|T追剧","type": 3,"api": "csp_LiteApple1","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "小苹果","name": "🅱️苹果影视丨T追剧","type": 3,"api": "csp_LiteApple1","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"AppTT","name":"🅱️图图影视|T追剧","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"./tvbox/tu/ttys.txt"},
+{"key":"AppTT","name":"🅱️图图影视丨T追剧","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"./tvbox/tu/ttys.txt"},
 
-{"key":"drpy_js_酷云七七","name":"🅱️炫彩影视|T追剧","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/酷云77.js"},
+{"key":"drpy_js_酷云七七","name":"🅱️炫彩影视丨T追剧","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/酷云77.js"},
 
 //{"key":"csp_AppTT2","name":"图图影视〔SP〕","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.89:7788"},
 
-{"key":"csp_xBPQ_UM影院","name":"🅱️悠慕影院|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/UM影院.json"},
+{"key":"csp_xBPQ_UM影院","name":"🅱️悠慕影院丨T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/UM影院.json"},
 
 {"key": "py_cctv_full","name": " 📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_ysdq.py"},
 	
@@ -33,27 +33,27 @@
 
 //原
 
-{"key":"mtv_xp_易搜资源","name":"🔍阿里|易搜","type":3,"api":"csp_Yisou" ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/Panso/盘搜.json"},
+{"key":"mtv_xp_易搜资源","name":"🔍阿里丨易搜","type":3,"api":"csp_Yisou" ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/Panso/盘搜.json"},
 
 //{"key":"Alips","name":"🔍阿里|盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"./tvbox/Panso/ZT.txt"},
 
 //巧技
 //{"key":"Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
 
-{"key":"AliPanSou","name":"🔍阿里|盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
+{"key":"AliPanSou","name":"🔍阿里丨盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
 
-{"key":"UPanSo","name":"🔍阿里|优盘搜","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
+{"key":"UPanSo","name":"🔍阿里丨优盘搜","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
 
-{"key":"FindZY","name":"🔍阿里|找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
+{"key":"FindZY","name":"🔍阿里丨找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
 
-{"key":"Gitcafe","name":"🔍阿里|纸条壹","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
+{"key":"Gitcafe","name":"🔍阿里丨纸条壹","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
 
 //备用
 //{"key":"UP云搜","name":"🔍阿里|云搜","type":3,"api":"csp_UpYun","ext":"./tvbox/Panso/盘搜.json","jar":"./tvbox/JAR/Yoursmile.jar"},
 
 //{"key":"csp_Zhaozy","name":"🔍阿里|找源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/Panso/ztts.txt","jar":"./tvbox/JAR/ts.jar"},
 
-{"key":"csp_Gitcafe","name":"🔍阿里|纸条贰","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/Panso/ztsp.txt"},
+{"key":"csp_Gitcafe","name":"🔍阿里丨纸条贰","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/Panso/ztsp.txt"},
 
 //{"key":"Gitcafe","name":"🔍阿里|纸条叁","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/Panso/ztts.txt","jar":"./tvbox/JAR/cs.jar"},
 
