@@ -14,9 +14,9 @@
 
 //{"key":"T4_douban","name":"热播","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
  
-//{"key":"js豆瓣","name":"🅱️追剧影院|T热播","type":3,"api":"./tvbox/JS/js/doubanrebo1.js","ext":"./tvbox/JS/js/doubanrebo2.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"js豆瓣","name":"🅱️追剧影院|T热播","type":3,"api":"./tvbox/JS/js/doubanrebo1.js","ext":"./tvbox/JS/js/doubanrebo2.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key": "dr_豆瓣","name": "🅱️追剧影院|T荐片","type": 3,"api": "./tvbox/JS/js/doubanjianpian1.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./tvbox/JS/js/doubanjianpian2.js"},
+//{"key": "dr_豆瓣","name": "🅱️追剧影院|T荐片","type": 3,"api": "./tvbox/JS/js/doubanjianpian1.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./tvbox/JS/js/doubanjianpian2.js"},
 
 {"key": "小苹果","name": "🅱️苹果影视|T追剧","type": 3,"api": "csp_LiteApple1","searchable": 1,"quickSearch": 1,"filterable": 1},
 
