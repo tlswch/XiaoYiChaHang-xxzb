@@ -9,9 +9,8 @@
 
 "sites": [ 
  
-{"key":"js豆瓣","name":"🅱️追剧影院|T热播","type":3,"api":"http://52bsj.vip:81/api/v3/file/get/71556/doubanrebo1.js?sign=SrvuF5j7fhoPfPDMI4_hW00-aJnsQgcFNT3_uup9Wys%3D%3A0","ext":"http://52bsj.vip:81/api/v3/file/get/71557/doubanrebo2.js?sign=9rzD8K9XOU-5zxvStAHZCD_k1i_hoO222jH6l3MhqKA%3D%3A0","searchable": 0,"quickSearch": 0,"filterable": 0},
-
-{"key": "dr_豆瓣","name": "🅱️追剧影院|T荐片","type": 3,"api": "http://52bsj.vip:81/api/v3/file/get/71554/doubanjianpian1.js?sign=BHgZKliQqepH4qr42KBPVyjeASgSfNbRqCtJm2m0wlw%3D%3A0","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://52bsj.vip:81/api/v3/file/get/71555/doubanjianpian2.js?sign=TpAmUmURwB3gA0lkGy2p2TQMQE28PnTAEqljCCWpxjA%3D%3A0"},
+{"key":"t4豆瓣","name":"🅱️豆瓣荐片|T首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"js豆瓣","name":"🅱️豆瓣热播┃dr首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
  
 //{"key":"js豆瓣","name":"🏮小易茶行:祝您春节快乐!兔年大吉!🏮","type":3,"api":"./tvbox/JS/js/doubanrebo1.js","ext":"./tvbox/JS/js/doubanrebo2.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
