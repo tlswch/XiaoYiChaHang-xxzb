@@ -39,8 +39,6 @@
 
 {"key": "美食","name": "️ 🇨🇳天下美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/xBPQ/zhms.json"},
 
-{"key":"户外","name":"吾爱户外","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./tvbox/xBPQ/吾爱户外.json","spider":"./tvbox/JAR/春节.jar"},
-
 //原
 
 {"key":"mtv_xp_易搜资源","name":"🔍阿里|易搜","type":3,"api":"csp_Yisou" ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/Panso/盘搜.json"},
@@ -176,10 +174,7 @@
 
 {"key":"mtv_xp_维奇动漫","name":"🏠维奇动漫（切片）","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-维奇动漫.json"},
 
-
-{"key":"演唱会自定义","name":"👀看演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./tvbox/xBPQ/吾爱演唱.json","spider":"./tvbox/JAR/春节.jar"},
-
-//{"key":"csp_Biliych","name":"👀看演唱会","type": 3,"api": "csp_Bili","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext":"./tvbox/xBPQ/biliych.json"},
+{"key":"csp_Biliych","name":"👀看演唱会","type": 3,"api": "csp_Bili","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext":"./tvbox/xBPQ/biliych.json"},
 
 {"key":"相声小品","name":"👀相声小品","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 
