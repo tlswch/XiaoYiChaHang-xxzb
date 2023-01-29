@@ -39,6 +39,8 @@
 
 {"key": "美食","name": "️ 🇨🇳天下美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/xBPQ/zhms.json"},
 
+{"key":"户外","name":"吾爱户外","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./tvbox/xBPQ/吾爱户外.json","spider":"./tvbox/JAR/春节.jar"},
+
 //原
 
 {"key":"mtv_xp_易搜资源","name":"🔍阿里|易搜","type":3,"api":"csp_Yisou" ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/Panso/盘搜.json"},
