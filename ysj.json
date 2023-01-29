@@ -174,7 +174,7 @@
 
 {"key":"mtv_xp_维奇动漫","name":"🏠维奇动漫（切片）","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-维奇动漫.json"},
 
-{"key":"csp_Biliych","name":"👀看演唱会","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./tvbox/xBPQ/biliych.json"},
+{"key":"csp_Biliych","name":"👀看演唱会","type": 3,"api": "csp_Bili","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext":"./tvbox/xBPQ/biliych.json"},
 
 {"key":"相声小品","name":"👀相声小品","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 
