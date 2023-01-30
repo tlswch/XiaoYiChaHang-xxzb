@@ -224,7 +224,7 @@
 
 {"name":"嗅探聚合","url":"https://jx.4kdv.com/?url=", "showType":1},
 
-{"name":"小易茶行","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url=","ext": {"flag":["rx","ltnb","renrenmi","rongxing","bilibili","哔哩哔哩","哔哩","youku","优酷","qiyi","爱奇艺","奇艺","qq","腾讯","mgtv","芒果","sohu","搜狐","letv","乐视","xigua","CL4K","西瓜"]}},
+{"name":"小易茶行","type":1,"url":"https://jiexi.parses.repl.co/api.php?url=","ext": {"flag":["rx","ltnb","renrenmi","rongxing","bilibili","哔哩哔哩","哔哩","youku","优酷","qiyi","爱奇艺","奇艺","qq","腾讯","mgtv","芒果","sohu","搜狐","letv","乐视","xigua","CL4K","西瓜"]}},
 
 {"name":"茶行嗅探","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 
