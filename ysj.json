@@ -192,9 +192,9 @@
 
 {"key":"csp_XYQBiu_酷奇MV","name":"🎶酷奇MTV","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/XYQ/酷奇MV.json"},
 
-{"key":"csp_Sp_谁演唱会","name":"🅱哗哩一站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/演唱会.php"},
+{"key":"csp_Sp_谁演唱会","name":"🅱哗哩一站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable": 1,"ext": "./tvbox/xBPQ/哔哩一站.json"},
 
-{"key":"csp_Sp_哗哩合集","name":"🅱哗哩二站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/哔哩合集T2.php"},
+{"key":"csp_Sp_哗哩合集","name":"🅱哗哩二站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable": 0,"ext": "./tvbox/xBPQ/哔哩二站.json"},
 
 {"key": "py_bilimd","name": "🅱哔哩三站","type": 3,"api": "py_bilimd","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://101.34.67.237/txt/py/py_bilimd.py"},
         
