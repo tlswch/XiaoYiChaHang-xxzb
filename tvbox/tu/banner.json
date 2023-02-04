@@ -5,7 +5,7 @@
 //{"downloadLink":"","title":"最新版1.1.7","desc":"最近更新的挺多的具体的点击提BUG看更新日志吧,建议都更新到最新版哦\n快到更新日志中下载吧\n持续更新","size":"28.5M","versionNumber":1017,"isForce": false}
     
     {
-      "name": "",
+      "name": "推广",
       "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/ChaHang.png",
       "url": "",
       "type": "",     
@@ -14,16 +14,16 @@
     },
     
 {
-      "name": "品茶",
+      "name": "",
       "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/pc.png",
       "url": "",
       "type": "",     
-       "desc": "",
+       "desc": "品茶",
       "show": true
     },
     
     {
-      "name": "武夷岩茶",
+      "name": "",
       "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/gxrg.jpg",
       "url": "",
       "type": "",     
@@ -32,7 +32,7 @@
     },
     
     {
-      "name": "野生红茶",
+      "name": "",
       "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/fzx.jpg",
       "url": "",
       "type": "",     
@@ -41,7 +41,7 @@
     },
     
     {
-      "name": "武夷岩茶",
+      "name": "",
       "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/bnlc.jpg",
       "url": "",
       "type": "",     
