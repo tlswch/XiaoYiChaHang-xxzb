@@ -5,11 +5,11 @@
 //{"downloadLink":"","title":"最新版1.1.7","desc":"最近更新的挺多的具体的点击提BUG看更新日志吧,建议都更新到最新版哦\n快到更新日志中下载吧\n持续更新","size":"28.5M","versionNumber":1017,"isForce": false}
     
     {
-      "name": "推广",
+      "name": "",
       "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/ChaHang.png",
       "url": "",
       "type": "",     
-       "desc": "欢迎来小易茶行喝茶",
+       "desc": "",
       "show": true
     },
     
@@ -23,29 +23,29 @@
     },
     
     {
-      "name": "果香肉桂",
+      "name": "武夷岩茶",
       "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/gxrg.jpg",
       "url": "",
       "type": "",     
-       "desc": "",
+       "desc": "果香肉桂",
       "show": true
     },
     
     {
-      "name": "妃子笑",
+      "name": "野生红茶",
       "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/fzx.jpg",
       "url": "",
       "type": "",     
-       "desc": "",
+       "desc": "妃子笑",
       "show": true
     },
     
     {
-      "name": "百年老枞",
+      "name": "武夷岩茶",
       "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/bnlc.jpg",
       "url": "",
       "type": "",     
-       "desc": "",
+       "desc": "百年老枞",
       "show": true
     }
     
