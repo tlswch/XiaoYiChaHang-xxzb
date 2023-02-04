@@ -11,6 +11,15 @@
       "show": true
     },
     
+{
+      "name": "品茶",
+      "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/pc.png",
+      "url": "",
+      "type": "",     
+       "desc": "",
+      "show": true
+    },
+    
     {
       "name": "果香肉桂",
       "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/gxrg.jpg",
@@ -21,8 +30,17 @@
     },
     
     {
-      "name": "品茶",
-      "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/pc.png",
+      "name": "妃子笑",
+      "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/fzx.jpg",
+      "url": "",
+      "type": "",     
+       "desc": "",
+      "show": true
+    },
+    
+    {
+      "name": "百年老枞",
+      "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/bnlc.jpg",
       "url": "",
       "type": "",     
        "desc": "",
