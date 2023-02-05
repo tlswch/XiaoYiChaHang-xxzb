@@ -14,38 +14,38 @@
     },
     
 {
-      "name": "",
+      "name": "品茗闻香",
       "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/pc.png",
       "url": "",
       "type": "",     
-       "desc": "品茶",
+       "desc": "",
       "show": true
     },
     
     {
-      "name": "",
+      "name": "果香肉桂岩茶",
       "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/gxrg.jpg",
       "url": "",
       "type": "",     
-       "desc": "果香肉桂",
+       "desc": "🔥店家热推🔥",
       "show": true
     },
     
     {
-      "name": "",
+      "name": "妃子笑野红茶",
       "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/fzx.jpg",
       "url": "",
       "type": "",     
-       "desc": "妃子笑",
+       "desc": "🔥店家热推🔥",
       "show": true
     },
     
     {
-      "name": "",
+      "name": "百年老枞岩茶",
       "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/bnlc.jpg",
       "url": "",
       "type": "",     
-       "desc": "百年老枞",
+       "desc": "🔥店家热推🔥",
       "show": true
     }
     
