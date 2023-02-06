@@ -1,22 +1,16 @@
-
 {
 "spider":"./tvbox/JAR/Yoursmile.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./tvbox/TV/zby.txt"]}]}],
-
 "wallpaper":"http://maoyingshi.cc/api.php",
 
-"sites":
-[
+"sites":[
  {"key": "date", "name": "🈲18成人视频🈲", "type": 0, "api": ""},
- 
- {"key": "hhhh", "name": "🈲保重龙体呀🈲", "type": 0, "api": ""},
- 
+  
  {"key":"drpy_js_猫了个咪","name":"😍猫了|个咪","type":3,"api":"./tvbox/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/JS/js/猫了个咪.js"},
  
 {"key":"drpy_js_黄瓜TV","name":"😍黄瓜|资源","type":3,"api":"./tvbox/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/JS/js/黄瓜TV.js"},
 
-{"key":"csp_xBPQ_GAOAA","name":"😍搞爱|资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/GAOAA.json","jar":"./tvbox/JAR/XBPQ_0109.jar"},
+{"key":"csp_xBPQ_GAOAA","name":"😍搞爱|资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/GAOAA1.json","jar":"./tvbox/JAR/0109.jar"},
 
 {"key":"csp_xBPQ_聚优中文资源","name":"😍聚优|中文","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/聚优中文资源.json","jar":"./tvbox/JAR/Yoursmile2.jar"},
 
@@ -36,11 +30,13 @@
 
 {"key":"csp_xBPQ_天天直播","name":"😍天天|直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/天天直播.json","jar":"./tvbox/JAR/Yoursmile2.jar"},
 
-{"key":"csp_xBPQ_聚优直播","name":"😍聚优|直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/聚优直播.json"},
-
 {"key":"csp_xBPQ_实时直播","name":"😍实时|直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/实时直播.json"},
 
-{"key":"csp_XYQHiker_18AV","name":"😍18AV |源","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/XYQH/18AV.json"},
+{"key": "9号资源","name": "😍九号|资源","type": 0,"api": "http://fhapi9.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
+
+{"key": "青青草","name": "😍青青|草源","type": 0,"api": "https://www.caiji05.com/home/cjapi/cfda/mc/vod/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
+
+{"key":"csp_XYQHiker_18AV","name":"😍18AV |源","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/18AV.json"},
 
 {"key":"csp_xBPQ_掏爱撸","name":"😍掏爱|撸管","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/掏爱撸.json"},
 
@@ -62,7 +58,7 @@
 
 {"key":"csp_xBPQ_性欲轮回[分类]","name":"😍轮回|分类","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/性欲轮回[分类].json"},
 
-{"key":"csp_xBPQ_色花堂","name":"😍色花|堂源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/色花堂.json","jar":"./tvbox/JAR/XBPQ_0111.jar"},
+{"key":"csp_xBPQ_色花堂","name":"😍色花|堂源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/色花堂.json","jar":"./tvbox/JAR/0111.jar"},
 
 {"key":"JAV名优","name":"😍JAV|名优","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 
