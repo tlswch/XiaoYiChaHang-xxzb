@@ -11,7 +11,7 @@
 
 "sites": [
  
-{"key":"js_豆瓣荐片","name":"🅱️追剧影院|T热播","type":3,"api":"./tvbox/JS/lib/doubanjianpian1.js","ext":"./tvbox/JS/js/doubanjianpian2.js"},
+{"key":"js_豆瓣荐片","name":" 公告🔊：阿里易搜、纸条已修复！","type":3,"api":"./tvbox/JS/lib/doubanjianpian1.js","ext":"./tvbox/JS/js/doubanjianpian2.js"},
 
 {"key":"js豆瓣","name":"🅱️追剧影院|T荐片","type":3,"api":"./tvbox/JS/js/doubanrebo1.js","ext":"./tvbox/JS/js/doubanrebo2.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
@@ -40,22 +40,9 @@
 	
 {"key": "py_cctv","name": " 📺央视栏目自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_yszx.py"},
 
-//原
+{"key":"Yisou","name":"🔍阿里|易搜","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"7dcd0d0a3f7a42d69fbc9def415668e2","jar":"./tvbox/JAR/0130.jar"},
 
-{"key":"mtv_xp_易搜资源","name":"🔍阿里|易搜","type":3,"api":"csp_Yisou" ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/Panso/盘搜.json"},
-
-//{"key":"Alips","name":"🔍阿里|盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"./tvbox/Panso/ZT.txt"},
-
-//巧技
-//{"key":"Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
-
-{"key":"AliPanSou","name":"🔍阿里|盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
-
-{"key":"UPanSo","name":"🔍阿里|优盘搜","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
-
-{"key":"FindZY","name":"🔍阿里|找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
-
-{"key":"Gitcafe","name":"🔍阿里|纸条壹","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
+{"key": "Gitcafe","name": "🔍阿里|纸条","type": "3","api": "csp_Paper","searchable": "1","quickSearch": "1","filterable": "1","ext": "7dcd0d0a3f7a42d69fbc9def415668e2","jar":"./tvbox/JAR/0130.jar"},
 
 //备用
 //{"key":"UP云搜","name":"🔍阿里|云搜","type":3,"api":"csp_UpYun","ext":"./tvbox/Panso/盘搜.json","jar":"./tvbox/JAR/Yoursmile.jar"},
