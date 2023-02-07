@@ -49,7 +49,7 @@
 
 //{"key":"csp_Zhaozy","name":"🔍阿里|找源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/Panso/ztts.txt","jar":"./tvbox/JAR/ts.jar"},
 
-{"key":"csp_Gitcafe","name":"🔍阿里|纸条贰","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/Panso/ztsp.txt"},
+//{"key":"csp_Gitcafe","name":"🔍阿里|纸条贰","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/Panso/ztsp.txt"},
 
 //{"key":"Gitcafe","name":"🔍阿里|纸条叁","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/Panso/ztts.txt","jar":"./tvbox/JAR/cs.jar"},
 
