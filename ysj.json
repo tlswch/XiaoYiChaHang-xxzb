@@ -11,7 +11,7 @@
 
 "sites": [
  
-{"key":"js_豆瓣荐片","name":" 公告🔊：阿里易搜、纸条已修复！","type":3,"api":"./tvbox/JS/lib/doubanjianpian1.js","ext":"./tvbox/JS/js/doubanjianpian2.js"},
+{"key":"js_豆瓣荐片","name":" 公告🔊：阿里云盘系列已全部修复完毕！","type":3,"api":"./tvbox/JS/lib/doubanjianpian1.js","ext":"./tvbox/JS/js/doubanjianpian2.js"},
 
 {"key":"js豆瓣","name":"🅱️追剧影院|T荐片","type":3,"api":"./tvbox/JS/js/doubanrebo1.js","ext":"./tvbox/JS/js/doubanrebo2.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
@@ -40,9 +40,15 @@
 	
 {"key": "py_cctv","name": " 📺央视栏目自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_yszx.py"},
 
-{"key":"Yisou","name":"🔍阿里|易搜","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"7dcd0d0a3f7a42d69fbc9def415668e2","jar":"./tvbox/JAR/0130.jar"},
+{"key": "小纸条","name": "🔍阿里|纸条","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"switchable": 0,"ext": "7dcd0d0a3f7a42d69fbc9def415668e2","jar": "./tvbox/JAR/9561.jar"},
 
-{"key": "Gitcafe","name": "🔍阿里|纸条","type": "3","api": "csp_Paper","searchable": "1","quickSearch": "1","filterable": "1","ext": "7dcd0d0a3f7a42d69fbc9def415668e2","jar":"./tvbox/JAR/0130.jar"},
+{"key": "易搜","name": "🔍阿里|易搜","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"switchable": 0,"ext": "7dcd0d0a3f7a42d69fbc9def415668e2","jar": "./tvbox/JAR/9561.jar"},
+
+{"key": "盘搜","name": "🔍阿里|盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"switchable": 0,"ext": "7dcd0d0a3f7a42d69fbc9def415668e2","jar": "./tvbox/JAR/9561.jar"},
+
+{"key": "UP云搜","name": "🔍阿里|云搜","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 0,"switchable": 0,"ext": "7dcd0d0a3f7a42d69fbc9def415668e2","jar": "./tvbox/JAR/9561.jar"},
+
+{"key":"Zhaozy","name":"🔍阿里|找源","type":3,"api":"csp_Zhaozy1","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"7dcd0d0a3f7a42d69fbc9def415668e2","jar":"./tvbox/JAR/9561.jar"},
 
 //备用
 //{"key":"UP云搜","name":"🔍阿里|云搜","type":3,"api":"csp_UpYun","ext":"./tvbox/Panso/盘搜.json","jar":"./tvbox/JAR/Yoursmile.jar"},
