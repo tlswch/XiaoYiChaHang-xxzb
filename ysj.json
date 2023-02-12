@@ -55,7 +55,7 @@
 
 {"key":"mtv_xp_动漫巴士","name":"🏠动漫巴士","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/xBPQ/动漫巴士.json"},
 
-{"key":"mtv_xp_维奇动漫","name":"🏠维奇动漫","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/xBPQ/维奇动漫.json"},
+{"key":"mtv_xp_维奇动漫","name":"🏠维奇动漫","type":3,"api":"csp_xBPQ"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/xBPQ/维奇动漫.json"},
 
 {"key":"户外","name":"吾爱丨户外","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./tvbox/xBPQ/吾爱户外.json","spider":"./tvbox/JAR/0723.jar"},
 
