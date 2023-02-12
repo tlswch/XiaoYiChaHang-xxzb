@@ -59,6 +59,8 @@
 
 {"key":"户外","name":"吾爱丨户外","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./tvbox/xBPQ/吾爱户外.json","spider":"./tvbox/JAR/0723.jar"},
 
+{"key": "棋牌","name": "吾爱丨棋牌","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"pwd": "50905d7b2216bfeccb5b41016357176b","ext": "./tvbox/xBPQ/吾爱棋牌.json","spider": "./tvbox/JAR/0723.jar"},
+
 {"key":"舞蹈","name":"吾爱丨舞蹈","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./tvbox/xBPQ/吾爱舞蹈.json","spider":"./tvbox/JAR/0723.jar"},
 
 {"key":"乐器","name":"吾爱丨乐器","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./tvbox/xBPQ/吾爱乐器.json","spider":"./tvbox/JAR/0723.jar"},
