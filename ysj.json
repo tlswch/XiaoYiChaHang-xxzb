@@ -25,6 +25,10 @@
 
 {"key":"csp_BuLei","name":"🅱️布蕾影院|T追剧","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key": "csp_Bttoo","name": "🅱️磁力影视|T追剧","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+{"key":"csp_xBPQ_98影院","name":"🅱️玖捌影院|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/98影院.json"},
+
 {"key": "py_cctv_full","name": " 📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_ysdq.py"},
 	
 {"key": "py_cctv","name": " 📺央视栏目自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_yszx.py"},
@@ -49,13 +53,9 @@
 
 {"key":"MGT","name":"官源丨芒果","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "csp_Bttoo","name": "🏠磁力影视","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"mtv_xp_动漫巴士","name":"动漫丨巴士","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/xBPQ/动漫巴士.json"},
 
-{"key":"csp_xBPQ_98影院","name":"🏠玖捌影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/98影院.json"},
-
-{"key":"mtv_xp_动漫巴士","name":"🏠动漫巴士","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/xBPQ/动漫巴士.json"},
-
-{"key":"mtv_xp_维奇动漫","name":"🏠维奇动漫","type":3,"api":"csp_xBPQ"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/xBPQ/维奇动漫.json"},
+{"key":"mtv_xp_维奇动漫","name":"维奇丨动漫","type":3,"api":"csp_xBPQ"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/xBPQ/维奇动漫.json"},
 
 {"key":"户外","name":"吾爱丨户外","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./tvbox/xBPQ/吾爱户外.json","spider":"./tvbox/JAR/0723.jar"},
 
