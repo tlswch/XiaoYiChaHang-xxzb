@@ -9,13 +9,16 @@
 
 "sites": [
  
-{"key":"js_豆瓣荐片","name":"🅱️追剧影院|T热播","type":3,"api":"./tvbox/JS/lib/doubanjianpian1.js","ext":"./tvbox/JS/js/doubanjianpian2.js"},
+{"key":"js_豆瓣荐片","name":"🅱️追剧影院|热播","type":3,"api":"./tvbox/JS/lib/doubanjianpian1.js","ext":"./tvbox/JS/js/doubanjianpian2.js"},
 
 {"key":"js豆瓣","name":"🅱️追剧影院|T荐片","type":3,"api":"./tvbox/JS/js/doubanrebo1.js","ext":"./tvbox/JS/js/doubanrebo2.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 {"key": "小苹果","name": "🅱️苹果影视|T追剧","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 
+//{"key":"csp_AppTT","name":"🅱️图图影视|T追剧","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="},
+
 {"key": "AppTT","name": "🅱️图图影视|T追剧","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "110c922de7d69804467fb83d3bb664b5","jar":"./tvbox/JAR/spider.jar"},
+
 
 {"key":"csp_xBPQ_农民影视","name":"🅱️农民影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/农民影视.json"},
 
@@ -53,9 +56,19 @@
 
 {"key":"MGT","name":"官源丨芒果","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"mtv_xp_动漫巴士","name":" 动漫丨巴士","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/xBPQ/动漫巴士.json"},
+{"key":"mtv_xp_动漫巴士","name":"动漫丨巴士","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/xBPQ/动漫巴士.json"},
 
-{"key":"mtv_xp_维奇动漫","name":" 维奇丨动漫","type":3,"api":"csp_xBPQ"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/xBPQ/维奇动漫.json"},
+{"key":"mtv_xp_维奇动漫","name":"维奇丨动漫","type":3,"api":"csp_xBPQ"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/xBPQ/维奇动漫.json"},
+
+{"key":"户外","name":"吾爱丨户外","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./tvbox/xBPQ/吾爱户外.json","spider":"./tvbox/JAR/0723.jar"},
+
+{"key": "棋牌","name": "吾爱丨棋牌","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"pwd": "50905d7b2216bfeccb5b41016357176b","ext": "./tvbox/xBPQ/吾爱棋牌.json","spider": "./tvbox/JAR/0723.jar"},
+
+{"key":"舞蹈","name":"吾爱丨舞蹈","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./tvbox/xBPQ/吾爱舞蹈.json","spider":"./tvbox/JAR/0723.jar"},
+
+{"key":"乐器","name":"吾爱丨乐器","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./tvbox/xBPQ/吾爱乐器.json","spider":"./tvbox/JAR/0723.jar"},
+
+//{"key":"穿搭","name":"吾爱丨穿搭","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./tvbox/xBPQ/吾爱穿搭.json","spider":"./tvbox/JAR/0723.jar"},
 
 {"key":"演唱会自定义","name":"👀看演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./tvbox/xBPQ/吾爱演唱.json","spider":"./tvbox/JAR/0723.jar"},
 
@@ -97,7 +110,7 @@
 
 {"name": "茶室嗅探","url": "https://jx.bozrc.com:4433/player/?url=","type": 0,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}},
 
-{"name":"茶室直解","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url="},
+{"name":"茶室直解","type":1,"url":"https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url="},
 
 {"name":"茶室直探","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}],
 
