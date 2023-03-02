@@ -21,7 +21,7 @@
 
 {"key":"csp_77","name":"🅱️炫彩影视|T追剧","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_BuLei","name":"🅱️布蕾影院|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/布蕾影院.json"},
+{"key":"csp_xBPQ_悠慕","name":"🅱️悠慕影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/UM影院.json"},
 
 {"key": "csp_Bttoo","name": "🅱️磁力影视|T追剧","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 
