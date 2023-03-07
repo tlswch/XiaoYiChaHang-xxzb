@@ -27,6 +27,10 @@
 
 {"key":"csp_xBPQ_98影院","name":"🅱️玖捌影院|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/98影院.json"},
 
+{"key":"csp_xBPQ_新视觉","name":"🅱️视觉影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/新视觉影视.json"},
+
+{"key":"csp_xBPQ_子子","name":"🅱️子子影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/子子影视.json"},
+
 {"key":"csp_xBPQ_HOHOTV","name":"🅱️邂逅影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/HOHOTV.json"},
 
 {"key": "py_cctv_full","name": " 📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_ysdq.py"},
