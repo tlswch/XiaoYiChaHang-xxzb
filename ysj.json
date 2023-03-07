@@ -45,13 +45,13 @@
 
 {"key": "Zhaozy","name": "🔍阿里|找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./tvbox/PanSo/token.txt"},
 
-{"key":"csp_SP360","name":"官源丨综合","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_SP360","name":"官源丨综合","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"teng","name":"官源丨腾讯","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
+//{"key":"teng","name":"官源丨腾讯","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
 
-{"key":"ai","name":"官源丨奇艺","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
+//{"key":"ai","name":"官源丨奇艺","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
 
-{"key":"MGT","name":"官源丨芒果","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"MGT","name":"官源丨芒果","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"mtv_xp_动漫巴士","name":"动漫丨巴士","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/xBPQ/动漫巴士.json"},
 
